@@ -1,6 +1,9 @@
 
 # Churn Prediction
 
+<img src="https://github.com/baynazoglu/Churn-Prediction/blob/main/customer%20churn.png" alt="Image" width="600" height="220">
+
+
 ## Business Problem
 
 This project aims to develop a machine learning model that can predict which customers of a telecommunications company are likely to churn.
